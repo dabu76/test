@@ -8,6 +8,7 @@ class Hanulsoshop1ApplicationTests {
 
 	@Test
 	void contextLoads() {
+		
 	}
 
 }
